@@ -1,0 +1,14 @@
+This project implements a simple ATM (Automated Teller Machine) system using Python's Tkinter for the graphical user interface (GUI) and matplotlib for data visualization. 
+
+The system allows users to perform basic banking transactions such as checking balance, withdrawing funds, depositing funds, resetting PIN, viewing transaction history, and quitting the program.
+
+
+{"name":"Adeola Williams", "pin": "5678", "balance": 1000.00},
+{"name": "Biola Jones", "pin": "9876", "balance": 1500.00},
+{"name": "Janet Digital", "pin": "2468", "balance": 800.00},
+{"name": "Folake John", "pin": "1357", "balance": 2000.00},
+{"name": "Chidera Uche", "pin": "4321", "balance": 1200.00}
+
+
+
+
